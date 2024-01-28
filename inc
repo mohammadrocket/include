@@ -2,7 +2,7 @@ aleo smart contract
 ki
   نیازها یا
 -----------------------------------------------------------------
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh4
 
 source $HOME/.cargo/env
 
